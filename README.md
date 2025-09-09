@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sabin M!
 
-<!--
-**Sabin-M/Sabin-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate [Your Role — e.g., developer, designer, data scientist] who loves building things that make life easier, smarter, or just more fun.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: [Project or area you're focused on]
+- 🌱 I’m learning: [Tech stack, tools, or concepts you're exploring]
+- 👯 I’m looking to collaborate on: [Open source projects, startups, etc.]
+- 💬 Ask me about: [Topics you're confident in]
+- 📫 How to reach me: [Email, LinkedIn, Twitter, etc.]
+- ⚡ Fun fact: [Something quirky or unexpected about you]
+
+## 🛠️ Tech Stack
+
+```bash
+Languages: Python | JavaScript | TypeScript | C++
+Frameworks: React | Node.js | Django | Flask
+Tools: Git | Docker | VS Code | Postman
+Cloud: AWS | Azure | Firebase
