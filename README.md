@@ -74,5 +74,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/m-sabin-691b6329b"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:stabinstabin50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
+  
 </p>
