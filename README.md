@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Sabin </h1>
-<h3 align="center">🐍 Python Developer | 📊 Data Analyst | 🚀 Lifelong Learner</h3>
+<h3 align="center">🐍 Python Developer | 📊 Data Analyst |📊 Data  | 🚀 Lifelong Learner</h3>
 
 <!-- 3D Animation Banner -->
 <p align="center">
